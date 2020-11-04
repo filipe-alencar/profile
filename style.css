@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 body {
-  background: #6a6c73;
-  color: #d0d2dc;
+  background: ##939ab5;
+  color: ##dcdfe6;
   font-family: 'Lato';
   font-size: 17px;
   font-weight: bold;
@@ -22,7 +22,7 @@ body {
 }
 
 .card {
-  background-color: gray;
+  background-color: #9fa7c2;
   padding: 15px;
   margin: 15px;
   text-align: center;
